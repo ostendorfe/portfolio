@@ -1,0 +1,25 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 800px) {
+    #about div {
+        display: block;
+        margin-top: 5%;
+        width: 100%;
+    }
+
+    .section {
+        text-align: center;
+    }
+
+    #headshot {
+        width: 700px;
+        height: auto;
+        float: none;
+    }
+
+    h2 {
+        font-size: 2.5em;
+    }
+
+    p {
+        font-size: 2em;
+    }
+}
